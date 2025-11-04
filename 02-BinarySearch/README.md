@@ -7,3 +7,5 @@ This folder contains solutions to Binary Search problems.
 ### 1D Arrays
 
 - Search To Find X In Sorted Array
+- Lower Bound 
+- Upper Bound
