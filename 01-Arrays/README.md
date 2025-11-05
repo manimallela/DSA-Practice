@@ -15,3 +15,8 @@ This folder contains solutions to array problems.
 - Linear Search 
 - Union Array
 - Intersection Array
+- Missing Number
+- Find Max Consecutive Ones
+- Single Number
+- Longest Sub Array
+- Two Sum
