@@ -10,3 +10,4 @@ This folder contains solutions to Binary Search problems.
 - Lower Bound 
 - Upper Bound
 - Search Insert
+- Floor and Ceil
