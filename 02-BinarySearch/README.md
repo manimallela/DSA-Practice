@@ -9,4 +9,4 @@ This folder contains solutions to Binary Search problems.
 - Search To Find X In Sorted Array
 - Lower Bound 
 - Upper Bound
-- 
+- Search Insert
